@@ -1,6 +1,6 @@
 # [Welcome to NIFTY Trading School](https://www.niftytradingschool.com)
 
-[NiFTY Trading School](https://www.niftytradingschool.com) Nifty Trading School provides you great platform for Stocks, Options, Call and Put Indraday & Technical Analysis Study in India, from where you can learn Indian stock market. Here, you can learn from very basic fundamentals of stock market to the A to Z fundamentals of technical analysis. NTS® gives different mind-blowing strategies and golden rules that helps you to become a professional trader in the stock market. [NiFTY Trading School](https://www.niftytradingschool.com/) Managed By NiSM Certified Expert Team [NiFTY Trading Academy](https://www.niftytradingschool.com/).
+[NiFTY Trading School](https://www.niftytradingschool.com) Nifty Trading School provides you great platform for Stocks, Future & Options, Fundamental & Technical Analysis Study in India, from where you can learn Global markets. Here, you can learn from basic Technicals of stock market in Advance Way. NTS® gives different mind-blowing strategies and golden rules that helps you to become a professional trader in the stock market. [NiFTY Trading School](https://www.niftytradingschool.com/) Managed By NiSM Certified Expert Team [NiFTY Trading Academy](https://www.niftytradingschool.com/).
 
 For the legacy Bootstrap 3 version of this theme, you can view the [last stable release](https://github.com/StartBootstrap/startbootstrap-sb-admin-2/releases/tag/v3.3.7%2B1) of SB Admin 2 for Bootstrap 3.
 
